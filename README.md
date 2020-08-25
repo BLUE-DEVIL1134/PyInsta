@@ -1,4 +1,4 @@
-# <align center> Welcome To PyInsta </align>
+# <p align="center">   <h1> Welcome To PyInsta </h1>
 ### A Python Library For Scraping InstaGram Data.
 
 ## Installation
@@ -42,7 +42,7 @@ python3 main.py
 The Result Will Be:
 ```shell script
 We Have Set The Result Into A Python Dictionary,
-So By Printing Just The Result We Get:
+So By Printing Just The Result We Get: 
 {
     'Followers': number_of_followers,
     'Following': number_of_following,
