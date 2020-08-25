@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 fh.close()
 
 setuptools.setup(
-    name="PyInsta",
+    name="PyInsta-Scrape",
     version="1.0",
     author="Akash Pattnaik",
     author_email="akashjio66666@gmail.com",
