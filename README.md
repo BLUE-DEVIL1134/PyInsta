@@ -1,4 +1,4 @@
-# <p align="center">   <h1> Welcome To PyInsta </h1>
+#  Welcome To PyInsta
 ### A Python Library For Scraping InstaGram Data.
 
 ## Installation
